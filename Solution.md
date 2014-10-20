@@ -61,7 +61,7 @@ is 5!/2!-4!/2!-3!-2!-1!. The - sign is NOT MINUS - it is just a separator.
 # Step 4
 
 The final step is to combine the debt fractions with the populations in kind of a
-"dot product" operation to yeild how many permutations have been lost to debt from
+"dot product" operation to yield how many permutations have been lost to debt from
 the start of the permutation space. In our example this would be shown below (this
 time the - does mean minus!):
 
